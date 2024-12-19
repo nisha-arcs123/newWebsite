@@ -1,0 +1,6 @@
+
+@mixin flexProperty($first, $second, $third){
+    display:$first;
+    align-items: $second;
+    justify-content: $third;
+  }
